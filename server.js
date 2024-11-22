@@ -21,7 +21,9 @@ const botName = "Study Buddy";
 const users = [
   { enrollment: "MITU22BTCS0772", name: "Shivam Khode" },
   { enrollment: "MITU22BTCS0902", name: "Tanmay Deskhmukh" },
-  { enrollment: "MITU22BTCS0902", name: "SHREYAS innamdar" },
+  { enrollment: "MITU22BTCS0442", name: "SHREYAS innamdar" },
+  { enrollment: "MITU22BTCS0123", name: "celcilin cs" },
+  { enrollment: "MITU22BTCS0034", name: "Aditi Shinde" },
 ];
 
 // Middleware
